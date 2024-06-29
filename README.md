@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdil150507@gmail.com**
 
-- ⚡ Fun fact **Saya seorang pelajar🗿**
+- ⚡ Fun fact **Saya seorang manusiswa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
