@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cafe sixs](https://cafe6.dils.my.id)
 
-- 🌱 I’m currently learning **Node JS, Express JS, React Js**
+- 🌱 I’m currently learning **Node JS, Express JS**
 
 - 👨‍💻 All of my projects are available at [dils.my.id](https://dils.my.id)
 
