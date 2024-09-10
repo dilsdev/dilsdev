@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdil</h1>
 <h3 align="center">A passionate Junior Backend Developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Cafe sixs](https://cafe6.dils.my.id)
-
-- 🌱 I’m currently learning **Node JS, Express JS**
+- 🌱 I’m currently learning **Node JS, Express JS, Odoo**
 
 - 👨‍💻 All of my projects are available at [dils.my.id](https://dils.my.id)
 
