@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdil</h1>
-<h3 align="center">A passionate Junior Backend Developer from Indonesia</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdil;A+passionate+Junior+Backend+Developer+from+Indonesia)](https://git.io/typing-svg)
+<h3 align="center">Aspiring Software Engineer, committed to mastering and excelling in every piece of software I develop.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilsdev&label=Profile%20views&color=0e75b6&style=flat" alt="dilsdev" /> </p>
 
 - 🌱 I’m currently learning **Node JS, Express JS, Odoo**
 
