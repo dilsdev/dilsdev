@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abdil150507@gmail.com**
 
-- ⚡ Fun fact **Saya seorang manusia**
+- ⚡ Fun fact **Saya tidak suka bakso**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
