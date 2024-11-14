@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer, committed to mastering and excelling in every piece of software I develop.</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
 
-- 🌱 I’m currently learning **Node JS, Express JS, Odoo**
+- 🌱 I’m currently learning **Node JS, Express JS, Odoo** 
 
 - 👨‍💻 All of my projects are available at [dils.my.id](https://dils.my.id)
 
