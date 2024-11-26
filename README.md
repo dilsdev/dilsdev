@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdil;A+passionate+Junior+BackendDev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdil;A+passionate+Junior+BackendDev)](https://git.io/typing-svg) 
 <h3 align="center">Aspiring Software Engineer, committed to mastering and excelling in every piece of software I develop.</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
   
