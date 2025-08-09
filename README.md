@@ -11,7 +11,7 @@
     ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-**🤡 Level Drama: Developer PHP Generasi 90an**  
+**🤡 Level Drama: Developer PHP Gen Z**  
 **⚡ Kekuatan: Udah 9000+ Bug Dibetulin**  
 **🏆 Prestasi Terbesar: Masih Hidup Setelah Pake PHP 7.4**
 
