@@ -156,9 +156,6 @@ class MasAbdil extends ProgrammerIndonesia
 ### 🌈 Bahasa Pemrograman Favorit
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilsdev&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🔥 Streak Begadang
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilsdev&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
