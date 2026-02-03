@@ -1,1 +1,1 @@
-> Kode bukan sekadar bekerja — tapi bergerak cepat tanpa berantakan.
+> Repo public untuk dokumentasi. Repo private untuk kerja sebenarnya. Yang gacor jarang butuh penonton.
